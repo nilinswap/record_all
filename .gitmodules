@@ -1,0 +1,4 @@
+[submodule "cpp_record"]
+	path = cpp_record
+	url = https://github.com/nilinswap/cpp_record
+	branch = cpp_rec
