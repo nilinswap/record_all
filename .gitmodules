@@ -2,3 +2,7 @@
 	path = cpp_record
 	url = https://github.com/nilinswap/cpp_record
 	branch = cpp_rec
+[submodule "load_a"]
+	path = load_a
+	url = git@github.com:nilinswap/load_a.git
+	branch = master
